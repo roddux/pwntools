@@ -20,6 +20,7 @@ __all__ = [
     'exception',
     'fmtstr',
     'gdb',
+    'glyph',
     'libcdb',
     'log',
     'memleak',

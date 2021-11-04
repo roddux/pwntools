@@ -31,6 +31,7 @@ from pwnlib.elf.elf import ELF, load
 from pwnlib.encoders import *
 from pwnlib.exception import PwnlibException
 from pwnlib.gdb import attach, debug_assembly, debug_shellcode
+from pwnlib.glyph import *
 from pwnlib.filepointer import *
 from pwnlib.filesystem import *
 from pwnlib.flag import *
